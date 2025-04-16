@@ -1,1 +1,1 @@
-# ds-prac
+# Data Science Practical
